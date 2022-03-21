@@ -36,3 +36,13 @@ type structure1 struct{
     ...
 }
 ```
+## Maps
+
+Basically same thing as dicts in python or objects in JS.
+
+## Loops
+
+There is only the construct for. lmao.
+
+## func init()
+Executes first, only one per file.
